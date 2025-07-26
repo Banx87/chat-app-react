@@ -85,7 +85,7 @@ const SettingsPage = () => {
 										<div
 											className={`max-w-[80%] rounded-xl p-3 shadow-sm ${
 												message.isSent
-													? "bg-primary text-priumary-content"
+													? "bg-primary text-primary-content"
 													: "bg-base-200"
 											}`}
 										>
